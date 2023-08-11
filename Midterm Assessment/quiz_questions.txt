@@ -1,0 +1,20 @@
+# format of quiz questions file
+# lines that begin with a # are ignored
+# blank lines are ignored
+# otherwise, each line is separated into fields using the ~ character
+# the fields are as follows:
+#      field 1: the question type (TF=True/False,MC=Multiple Choice, and FB=Fill in the Blank
+#      field 2: the question
+#      field 3: the correct answer. For Fill in the Blank, multiple correct answers may be separated by the | character
+#      field 4 (MC only): Wrong answers, separated by the | character.
+TF~The Chinese zodiac associates a sign with each month.~F
+TF~Chinese zodiac signs represent different types of personalities.~T
+TF~The Chinese zodiac signs each have an equivalent constellations, like those of the occidental zodiac.~F
+MC~Which sign is not part of the Chinese zodiac?~Fox~Rat|Pig|Tiger
+MC~The Chinese zodiac traditionally begins with which sign?~Rat~Fox|Pig|Tiger
+MC~The Chinese zodiac traditionally ends with which sign?~Pig~Fox|Rat|Tiger
+FB~How many signs are in the Chinese zodiac?~Twelve|12
+FB~Which is the only reptile that is a sign in the Chinese zodiac?~Snake
+FB~Which is the only imaginary animal that is a sign in the Chinese zodiac?~Dragon
+FB~Which is the only bird that is a sign in the Chinese zodiac?~Rooster
+

@@ -1,0 +1,1 @@
+<img src="assets/zodiacs_imgs/Chinese.png" alt="Chinese Zodiac: a code demonstration for PHP" title="Chinese Zodiac: a code demonstration for PHP"/>

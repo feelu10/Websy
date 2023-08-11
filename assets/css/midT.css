@@ -1,0 +1,76 @@
+  body {
+    background-image: url('https://img.freepik.com/free-vector/chinese-new-year-animals-vector-gold-animal-zodiac-sign-stickers-set_53876-136014.jpg?w=740&t=st=1690986822~exp=1690987422~hmac=6b48dc1fa30d9ce11acdb7bec70de068aa5abfd5048bc637e78d78011f998d7a');
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h2 {
+    color: white;
+  }
+  
+  h3 {
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    color: #0056b3;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffffd7;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .button {
+    margin-top: 2rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: white;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+    color: black;
+  }
+  
+  p,
+  h2,
+  h3 {
+    text-align: center;
+    margin: 1rem 0;
+    padding: 0;
+  }
+  .container{
+    width: auto;
+  }
+  .statistics-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+  }
+     
